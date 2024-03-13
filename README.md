@@ -23,11 +23,11 @@ Use your dashboard in the presentation along with the deck.
 ## Dashboard
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/9d6600ef-a472-42fc-9646-ae2f09fbed10)
 
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/864e03df-613f-4b67-9f02-3e5a53e6dce6)
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/3e3e8b1c-6f11-4cbf-b0bd-4dca2ccb2bbe)
 
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/d061732b-a801-4384-972d-00cf52fbdb3c)
-
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/864e03df-613f-4b67-9f02-3e5a53e6dce6)
 
 ## Insights Findings
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/74ef813f-814a-4dfd-85dc-bbae6fb199fd)
