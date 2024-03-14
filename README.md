@@ -21,13 +21,13 @@ Use your dashboard in the presentation along with the deck.
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/81281281-2ed3-4160-a4fd-1cad6d399539)
 
 ## Dashboard
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/9d6600ef-a472-42fc-9646-ae2f09fbed10)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/345771a8-767f-48a3-a04e-0f880bb6edd2)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/864e03df-613f-4b67-9f02-3e5a53e6dce6)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/92fcad30-7a6a-4ef0-bc48-da79bc84cbd0)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/3e3e8b1c-6f11-4cbf-b0bd-4dca2ccb2bbe)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/54d6d359-1b85-43e4-a257-350fb83acecc)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/d061732b-a801-4384-972d-00cf52fbdb3c)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/f854d152-028c-4e8c-b162-6842cb32d1d5)
 
 ## Insights Findings
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/74ef813f-814a-4dfd-85dc-bbae6fb199fd)
