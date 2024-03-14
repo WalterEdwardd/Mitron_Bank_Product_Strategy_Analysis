@@ -118,7 +118,14 @@ In addition to these insights, a third page has been dedicated to a detailed Tab
 
 ## Recommendations For Mitron
 To maximize credit card usage, it's imperative to design features that resonate with customer behaviors and expectations. The recommendations below are not only rooted in the insights garnered from our extensive data analysis but also supported by findings from secondary research, ensuring a well-rounded approach:
+### Personalized Rewards:
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/fddd95a3-988a-463a-8cb7-7eb18a7932fc)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/f8066b76-cd6d-4777-a10e-00b5ed7a1cfd)
+### Category-Centric Rewards Boost:
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/f961ffaa-89fd-48bc-9405-10bb4e076fcf)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/09112ba3-2d7a-4888-8c40-03f055591690)
+### Tech-Driven Convenience:
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/6e0f9974-1e15-4f40-8692-1e2bd7c3260b)
+
+### Advanced Security Measures:
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/f72e60b3-f70e-42f7-9218-92700cf23997)
