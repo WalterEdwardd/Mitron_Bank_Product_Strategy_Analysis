@@ -34,16 +34,22 @@ Use your dashboard in the presentation along with the deck.
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/e746ecf5-aa29-43a8-9dcf-f2a6dd541e65)
 -	Total Customers:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/838aa16b-d236-478b-92a4-8f252a242a3b)
 -	Gender Dynamics:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/acb4f9d1-f460-485a-b85d-c74c46ff50ef)
 -	Age Group Profiling:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/5d297437-5632-47ce-9cdd-bc9df0316771)
 -	City-wise Distribution:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/1f1aa30a-4a33-4ba3-87d9-0b503e51f033)
 -	Occupational Insight:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/f595328d-d0f4-4848-8274-f6edc8f422e7)
 -	Marital Status Overview:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/00e9294d-187a-4959-a735-fb527a039897)
 
 ### Income Utilization & Spending Analysis
@@ -51,28 +57,40 @@ In pursuit of illuminating critical insights into customer spending patterns and
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/ddf597a6-32bf-443d-9ae3-49d60fd6d1cd)
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/d50ed99d-f8d2-47bc-a5c0-28ae54aa637d)
 -	Average Income Utilization:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/782cc1cc-445c-426b-9aad-1983c0c8203d)
 -	Key Metrics:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/721ed479-938d-43ad-bd7e-9028dde4c4d4)
 -	Income, Spend, Utilization by Age Group:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/12707c7d-4bc1-47df-a497-fcfeeec187d5)
 -	Total Spends by Category:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/3aff7091-f7a0-4852-9ec2-99fcc9d218f6)
 -	Income, Spend, Utilization by Occupation:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/45d0d2b9-adb6-46e6-8114-89c2a1f1129a)
 -	Income, Spend, Income Utilization by City:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/1320b1eb-7c66-4ae1-909c-92f3ed5e753e)
 -	Total Spend by Payment Type:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/cf60831d-a885-4758-b88d-c5476c76e7f9)
 -	Total Spend by Gender:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/439123f8-096a-4d4e-bf95-5273576942d6)
 -	Spend by Marital Status:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/1fabfd5f-e70a-4e6c-a9f4-46b19d390940)
 -	Total Spend by Month:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/c1d7ad6f-0217-4124-a0e7-69c390a454af)
 -	Income Utilization by Gender:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/37b2539a-9c49-40fe-a687-6c0fbb9085e8)
 -	Income Utilization by Marital Status:
+
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/94ce2017-91cb-44bf-a907-48beacef8acc)
 
 ### Table Grid View Page:
