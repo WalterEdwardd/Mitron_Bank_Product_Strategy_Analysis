@@ -98,13 +98,23 @@ In addition to these insights, a third page has been dedicated to a detailed Tab
 ![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/1ce3bb48-780c-4623-9a44-859cded60baa)
 
 ## Key Findings
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/8195a86c-644c-4e8a-a33a-53d487f313e9)
+### Demographic Profiling
+-	Age Group Dynamics:
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/60bbe431-560f-4e90-9734-a44f299bb443)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/6d39010e-fd19-4209-a3e4-84e1d4886cf7)
+-	Occupation Influence:
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/0e2082e1-764d-4839-b0b8-109c21550cb3)
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/fcb88830-7844-433e-9113-ab2a7eadd699)
 
-![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/6acc0d8b-c418-4788-a2c8-6f97a6456c01)
+### Gender-Based Considerations
+-	Male gender dynamics:
+
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/9fa1720f-9adc-4a1b-96e6-014a9cac6d42)
+
+### City-Wise Considerations:
+-	Regional Dynamics:
+
+![image](https://github.com/WalterEdwardd/Mitron_Bank_Product_Strategy_Analysis/assets/128374617/1277b609-49cc-4ae5-b7a1-e788ac1f3271)
 
 ## Recommendations For Mitron
 To maximize credit card usage, it's imperative to design features that resonate with customer behaviors and expectations. The recommendations below are not only rooted in the insights garnered from our extensive data analysis but also supported by findings from secondary research, ensuring a well-rounded approach:
